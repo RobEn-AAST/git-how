@@ -1,3 +1,6 @@
 [submodule "ctds"]
 	path = ctds
 	url = git@github.com:omar-alsawaf/ctds.git
+[submodule "BagGame-A-Random-Tradition"]
+	path = BagGame-A-Random-Tradition
+	url = https://github.com/OmarElmelegy/BagGame-A-Random-Tradition.git
