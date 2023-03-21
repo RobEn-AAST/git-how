@@ -7,3 +7,6 @@
 [submodule "Game-of-Nim"]
 	path = Game-of-Nim
 	url = https://github.com/AndrewMaged814/Game-of-Nim.git
+[submodule "CTD6-bags-game"]
+	path = CTD6-bags-game
+	url = git@github.com:karimelmasry42/CTD6-bags-game.git
