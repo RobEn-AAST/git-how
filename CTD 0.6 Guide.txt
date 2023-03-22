@@ -1,0 +1,19 @@
+Randomness is the enemy:
+
+Libraries Included: Random; CV2; NUMPY
+
+Functions Created:
+
+display_message() is a function used to print for the user if he won or the 
+computer using GUI instead of the terminal.
+
+game() is a function that has all the processes for accepting user's username,
+bags value [10,10,10], selecting a bag, and select number of objects.
+
+
+The code is built to prevent any invalid inputs that the user might input
+to break the code.
+
+
+Best Regards,
+Khaled Eissa
