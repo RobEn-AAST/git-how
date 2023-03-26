@@ -10,3 +10,6 @@
 [submodule "CTD6-bags-game"]
 	path = CTD6-bags-game
 	url = git@github.com:karimelmasry42/CTD6-bags-game.git
+[submodule "Randomness_is_the_Enemy"]
+	path = Randomness_is_the_Enemy
+	url = https://github.com/saif-samy/Randomness_is_the_Enemy.git
